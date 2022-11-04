@@ -14,6 +14,6 @@ I am looking for a job!
 
 
 # Frameworks: 
-[![React]](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=red)
-[![Angular]](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=red)
+[![React](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=red)
+[![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=red)
 
