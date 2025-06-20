@@ -1,4 +1,4 @@
-# Hi there, I am Zoltán Horváth👋
+# Horváth Zoltán
 I am a Frontend Developer.
  
  
